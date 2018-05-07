@@ -1,5 +1,8 @@
 # Angular 6 project with Angular elements
 
+- create custom angular element from angular component.
+- add angular element as dynamic HTML.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
