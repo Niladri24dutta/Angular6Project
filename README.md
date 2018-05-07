@@ -1,4 +1,4 @@
-# NewProject
+# Angular 6 project with Angular elements
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
